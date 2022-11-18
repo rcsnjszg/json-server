@@ -5,7 +5,7 @@ A https://github.com/typicode/json-server dockerbe csomagolva és személyre sza
 # Futtatás
 
 ```bash
-docker run -d --rm -p 8888:80 json-server
+docker run -d --rm -p 8888:80 rcsnjszg/json-server
 ```
 
  - `-d` vagy `--detach`: A háttérben fut, így nem ír ki a terminálba üzeneteket és nem is fogad onnan parancsokat.
