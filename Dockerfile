@@ -1,6 +1,6 @@
 FROM node:16-alpine3.15
 
-RUN npm install -g json-server
+RUN npm install -g json-server@0.17
 
 WORKDIR /server
 
