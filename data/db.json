@@ -4,7 +4,7 @@
     { "id": 2, "title": "Sed et semper lectus", "content": "Nullam non quam et dui pharetra faucibus id vel libero."}
   ],
   "comments": [
-    { "id": 1, "text": "baz", "post_id": 1 },
-    { "id": 1, "text": "qux", "post_id": 2 }
+    { "id": 1, "text": "baz", "postId": 1 },
+    { "id": 1, "text": "qux", "postId": 2 }
   ]
 }
